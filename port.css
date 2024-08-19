@@ -1,0 +1,140 @@
+*{
+    margin:0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding:25px;
+}
+li,h1,ul{
+    display:inline;
+}
+ul{
+    margin-left:70%;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+img{
+    float: right;
+    display: inline-block;
+    height:400px;
+    width: 400px;
+    padding-top: 5px;
+    padding: 2px;
+}
+.para{
+    padding-bottom:20px;
+    color:black;
+    margin-top:10%;
+    padding-left:15%;
+    font-size: x-large;
+    
+}
+.name{
+    color:red;
+    margin-left: 10%;
+    font-size: x-large;
+    
+}
+p{
+    padding-top:5px;
+    color:black;
+}
+.email,input{
+    
+    padding:2px;
+    margin-left:5% ;
+    display: inline;
+    
+}
+input{
+    margin-top: 10%;
+    text-align: center;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    color: gray;
+    cursor: pointer;
+    display: inline;
+    
+}
+.box{
+    margin-top: 10%;
+    display: inline;
+
+}
+.sk{
+    float: left;
+    display: inline;
+    padding-top:3%;
+    height:200px;
+}
+    
+    
+
+.skill{
+    
+    border-style: double;
+    border-width: thick;
+    margin-left: 50%;
+    margin-top:8%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: beige;
+    border-width: 30px;
+    
+    
+}
+
+.Projects{
+    text-align: center;
+    padding:5%;
+    margin-top:1%;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.box1{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    text-align: center;
+    padding: 2px;
+    margin-left: 5%;
+}
+.Contact  {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 2%;
+}
+.Contact p{
+    color: white;
+}
+.education {
+    text-align: center;
+    padding:3%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.education p{
+    color: black;
+    margin-top: 7%;
+    margin-right: 15%;
+    
+}
+.education ul li{
+    color:black;
+    display: inline;
+    padding: 6%;
+    padding-left: 5%;
+}
